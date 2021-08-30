@@ -1,0 +1,2 @@
+com/kodilla/sudoku/SudokuGuessingTestSuite.java
+ com.kodilla.sudoku.SudokuGuessingTestSuite

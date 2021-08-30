@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.sudoku.SudokuGuessingTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-23T14:50:14" hostname="LAPTOP-R2JI2FRN" time="0.024">
+  <properties/>
+  <testcase name="testCopingBoard()" classname="com.kodilla.sudoku.SudokuGuessingTestSuite" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
